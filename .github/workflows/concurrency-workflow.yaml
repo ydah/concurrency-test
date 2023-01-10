@@ -1,4 +1,4 @@
-name: Linting3
+name: PR
 on:
   push:
     branches:
